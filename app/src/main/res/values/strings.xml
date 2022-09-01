@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR&amp;BarCodeScanner</string>
+    <string name="text_detect">text detect</string>
+    <string name="bar_code_image_text_assistance"><![CDATA[BAR-CODE & IMAGE TEXT ASSISTANCE]]></string>
+</resources>

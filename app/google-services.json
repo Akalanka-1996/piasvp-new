@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887834380688",
+    "project_id": "textreaderandroid",
+    "storage_bucket": "textreaderandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887834380688:android:e1b6144472c748888dcb15",
+        "android_client_info": {
+          "package_name": "com.febrian.qrbarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887834380688-aign70ghmmp2otls3rjc24hkrjfnmrl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGc5eXg4igTb4YoaiAasx7Yq_T_tnnlAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887834380688-aign70ghmmp2otls3rjc24hkrjfnmrl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
